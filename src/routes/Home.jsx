@@ -1,11 +1,13 @@
-const Home =()=>{
-return(
+import { HomeStyle } from "../css/HomeStyle";
+const Home = () => {
+  return (
     <>
-    
-    <h1>Zape</h1>
-    
-    
+      <HomeStyle>
+        <section>
+          <h1>Home</h1>
+        </section>
+      </HomeStyle>
     </>
-)
-
-}
+  );
+};
+export default Home;
