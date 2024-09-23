@@ -1,7 +1,8 @@
-const Nav=()=>{
+const Nav =()=>{
     return(
         <>
-        <h1>404- Page Not Found !!!</h1>
+        <Link to='/'>Home</Link>
+        <Link to="/musica">Musica</Link>
         </>
     )
 }
