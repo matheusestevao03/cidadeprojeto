@@ -1,8 +1,8 @@
-const Musica=()=>{
+const Musicas=()=>{
     return(
         <>
         <h1>Porraaaaaaaaa</h1>
         </>
     )
 }
-export default Musica
+export default Musicas
